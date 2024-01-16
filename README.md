@@ -4,5 +4,5 @@ Repositorio del TFG en Inteligencia Artifial de la UOC, con título "Detección 
 El repositorio incluye:
 
 1. El codigo fuente del proyecto principal del TFG: tfg_uoc_tderey.ipynb
-2. Los archivos fuente de la aplicación de clasificación de cancer desplegada en HugginFace: https://huggingface.co/spaces/tdelrey/skin.cancer.classifier
-3. Los modelos obtenidos durante el transcurso del proyecto y referenciados en la memoria
+2. Los archivos fuente de la aplicación de clasificación de cancer desplegada en HugginFace: https://huggingface.co/spaces/tdelrey/skin.cancer.classifier (en carpeta app)
+3. Los modelos obtenidos durante el transcurso del proyecto y referenciados en la memoria (en carpeta models)
